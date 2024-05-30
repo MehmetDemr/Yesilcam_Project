@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fwn2JTk8LfGMnIuXcIblewjXFFfvuAaB+3/shhMjXDl+baG2F8YVnYtzka/I01SUTHfUis0kSqmvD2dTAwtZJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehmet Demir\\Desktop\\Masaüstü\\Kodlama\\C# Projects\\YesilCam_Project\\YesilCam_Projesi\\YesilCam_Projesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmet Demir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Demir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Demir\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Mehmet Demir\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Demir\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Demir\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Demir\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
