@@ -1,11 +1,12 @@
 # Yesilcam_Project
 
-#Description
+##Description
+
 This C# application manages a movie database using a DataGridView interface. Users can view, add, and update movie information such as name, rating, budget, release year, box office count,
 We will also get to know the actors and directors closely.
 
 
-#Features
+##Features
 
 Viewing Movies: Users can see a list of movies stored in the database.
 Adding Movies: Users can add new movies to the database by providing relevant information.
